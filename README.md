@@ -81,7 +81,7 @@ MetalLB를 통해 클러스터로 유입된 트래픽은 Kubernetes Gateway API�
 
 > Prometheus API 요청 예시(컨테이너 CPU 사용량 조회)
 
-<img width="1280" alt="Prometheus API 요청 예시(컨테이너 CPU 사용량 조회)" src="https://github.com/user-attachments/assets/4d2c0698-e3d8-407f-856c-4502fd4e57b5" />
+<img width="1280" alt="Prometheus API 요청 예시(컨테이너 CPU 사용량 조회)" src="https://github.com/user-attachments/assets/4788d42e-a132-4435-9ce4-b13922a50f93" />
 
 파라미터를 통해 쿼리와 조회 기간, 값 사이의 시간 간격을 입력하여 API를 요청한다. API 요청 결과에서 시간과 리소스 값 쌍으로 데이터가 반환됨을 확인할 수 있다.
 
