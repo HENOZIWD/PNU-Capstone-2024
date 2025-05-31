@@ -2,6 +2,16 @@
 
 [최종 보고서 전문 보기](https://github.com/HENOZIWD/PNU-Capstone-2024/blob/main/docs/01.%EB%B3%B4%EA%B3%A0%EC%84%9C/03_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
+### 마이크로서비스 클라이언트 레포지토리 목록
+
+- [**FE-Main**](https://github.com/clove-pnu/FE-Main) - 각 애플리케이션 모듈들을 가져와 사용하는 호스트 애플리케이션
+- [**FE-Auth**](https://github.com/clove-pnu/FE-Auth) - 사용자 인증
+- [**FE-Deploy**](https://github.com/clove-pnu/FE-Deploy) - 공연 배포
+- [**FE-Monitor**](https://github.com/clove-pnu/FE-Monitor) - 공연 모니터링
+- [**FE-My-Ticket**](https://github.com/clove-pnu/FE-My-Ticket) - 예매한 티켓 조회
+- [**FE-Ticket**](https://github.com/clove-pnu/FE-Ticket) - 공연 예매
+- [**FE-Template**](https://github.com/clove-pnu/FE-Template) - 공연 배포 템플릿 관리
+
 ## 🎥 소개 및 시연 영상
 
 > https://www.youtube.com/watch?v=EWoIG3pVcTQ
