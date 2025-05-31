@@ -1,6 +1,6 @@
 # MSA 기반의 클라우드 티켓팅 플랫폼 개발
 
-[최종 보고서 전문 보기](https://github.com/HENOZIWD/PNU-Capstone-2024/blob/main/docs/01.%EB%B3%B4%EA%B3%A0%EC%84%9C/03_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+[**최종 보고서 전문 보기**](https://github.com/HENOZIWD/PNU-Capstone-2024/blob/main/docs/01.%EB%B3%B4%EA%B3%A0%EC%84%9C/03_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 ### 마이크로서비스 클라이언트 레포지토리 목록
 
